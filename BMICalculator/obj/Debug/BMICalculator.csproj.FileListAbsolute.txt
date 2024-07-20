@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\Visual Studio Projects (Training)\BMICalculator\bin\Debug\BMICalculator.exe
+D:\Visual Studio Projects (Training)\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\Visual Studio Projects (Training)\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\BMICalculator\obj\Debug\BMICalculator.exe
+D:\Visual Studio Projects (Training)\BMICalculator\obj\Debug\BMICalculator.pdb
